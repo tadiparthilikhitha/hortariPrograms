@@ -52,7 +52,7 @@ int main()
     }
   //  for(i=0;i<n;i++)
     {
-        printf("Election Winner%s:\n",a[max_index]);
+        printf("Election Winner:%s\n",a[max_index]);
     }
     return 0;
 }
